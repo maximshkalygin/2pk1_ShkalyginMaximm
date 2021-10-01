@@ -10,6 +10,7 @@ namespace pz_5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("работа с git");
         }
     }
 }
